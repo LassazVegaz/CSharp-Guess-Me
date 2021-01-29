@@ -6,7 +6,7 @@ This is the first C# Application I selected from those 15.
 
 ## This a C# WinForms game - Guess Me
 
-<img src="./screenshot.png" />
+<img src="./Screenshot.png" />
 
 If you have done some game projects in your favourite language, you may have probably interfered a project called _Guess Number_. This is a improved version of that game 😁
 
